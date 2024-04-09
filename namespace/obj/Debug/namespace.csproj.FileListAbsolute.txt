@@ -1,0 +1,7 @@
+C:\Users\AKSHAT\source\repos\overhiding\namespace\bin\Debug\@namespace.exe.config
+C:\Users\AKSHAT\source\repos\overhiding\namespace\bin\Debug\@namespace.exe
+C:\Users\AKSHAT\source\repos\overhiding\namespace\bin\Debug\@namespace.pdb
+C:\Users\AKSHAT\source\repos\overhiding\namespace\obj\Debug\namespace.csproj.AssemblyReference.cache
+C:\Users\AKSHAT\source\repos\overhiding\namespace\obj\Debug\namespace.csproj.CoreCompileInputs.cache
+C:\Users\AKSHAT\source\repos\overhiding\namespace\obj\Debug\@namespace.exe
+C:\Users\AKSHAT\source\repos\overhiding\namespace\obj\Debug\@namespace.pdb

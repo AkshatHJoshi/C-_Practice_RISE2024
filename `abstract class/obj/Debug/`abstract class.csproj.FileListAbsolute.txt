@@ -1,0 +1,7 @@
+C:\Users\AKSHAT\source\repos\overhiding\`abstract class\bin\Debug\`abstract class.exe.config
+C:\Users\AKSHAT\source\repos\overhiding\`abstract class\bin\Debug\`abstract class.exe
+C:\Users\AKSHAT\source\repos\overhiding\`abstract class\bin\Debug\`abstract class.pdb
+C:\Users\AKSHAT\source\repos\overhiding\`abstract class\obj\Debug\`abstract class.csproj.AssemblyReference.cache
+C:\Users\AKSHAT\source\repos\overhiding\`abstract class\obj\Debug\`abstract class.csproj.CoreCompileInputs.cache
+C:\Users\AKSHAT\source\repos\overhiding\`abstract class\obj\Debug\`abstract class.exe
+C:\Users\AKSHAT\source\repos\overhiding\`abstract class\obj\Debug\`abstract class.pdb
